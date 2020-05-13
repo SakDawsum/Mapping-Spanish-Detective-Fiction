@@ -1,0 +1,80 @@
+Chapter,Location,Context esp,Context eng,Longitude,Latitude,Number of Characters,Character 1,Character 2,Character 3,Exactness,Exactness old,Exact,Reality,Page,Section,Category,Structure type,Date in novel
+1,Salón de belleza,"Ruth pregunta sobre tratamiento de belleza, no tiene dinero suficiente",,,,1,Ruth,,,5,Low,No,Fictional,13,,Investigador,Business,2014-4-16
+1,Bloques Florida,Casa de Ruth.  Vuelve después de trabajar,,2.109235,41.367278,1,Ruth,,,2,Medium,Yes,Real,20,,Investigador,Home,2014-4-20
+1,Estación de Sants,Correa está por aquí buscando un paquete,,2.141171,41.379794,1,Correa,,,1,High,Yes,Real,23,,Sospechoso,Transport,2014-4-21
+1,Oficina de una imprenta en la Via Laietana,El trabajo de Ruth (de día),,2.178437,41.384231,1,Ruth,,,3,Medium,No,Fictional,26,,Investigador,Business,2014-4-25
+1,Bar el Jamaica,Ruth compra cafés para los de la oficina. Al salir Ruth come un bocadillo que alguien dejó a medio comer en una terraza. El bar no existe de verdad,,2.178763,41.384031,1,Ruth,,,3,Medium,No,Fictional,28-32,,Investigador,Bar Restaurant,2014-4-25
+2,Plaza de la seo,"Correa pasa por aquí, encuentra a Ruth",,2.17591,41.383654,2,Correa,Ruth,,1,High,Yes,Real,34-35,,Investigador,Exterior,2014-5-7
+2,Via Laietana (andando desde la plaza de la seo),Ruth coge un taxi aquí para volver a casa,,2.176641,41.385651,1,Ruth,,,2,Medium,Yes,Real,47,,Investigador,Exterior,2014-5-7
+3,Bloques Florida (en la última esquina),Arteaga vigila a Ruth fingiendo ser mendigo,,2.108742,41.368003,2,Arteaga,Ruth,,2,Medium,Yes,Real,48,,Sospechoso,Exterior,2014-5-12
+3,Bloques Florida (dentro del piso),"Ruth en casa, discute con su compañero del piso",,2.109235,41.36728,1,Ruth,,,2,Medium,Yes,Real,51-52,,Investigador,Home,2014-5-12
+3,heladería entre los bloques Florida y la boca del metro,"Ruth compra un helado aquí. La heladería no existe de verdad, ubicación no exacta",,2.108541,41.367942,1,Ruth,,,5,Low,No,Fictional,53-54,,Investigador,Business,2014-5-12
+3,"Boca del metro ""Florida""",Ruth coge el metro para ir a trabajar (de noche),,2.110107,41.368401,1,Ruth,,,1,High,Yes,Real,55,,Investigador,Transport,2014-5-12
+3,"Piso de Sant Antoni ""La guarida""",Piso okupa que Correa y su grupo habitan durante la mayoría de la novela,,2.161292,41.380369,2,Correa,Bosco,,2,High,No,Fictional,56,,Sospechoso,Home,2014-5-12
+4,Comisaría de la Policía Nacional (la más cercana a los bloques Florida),"Ruth viene para hacer otro DNI (fue robado), Correa aparece para ofrecerle trabajo. La novela no indica la ubicación exacta de la comisaría",,2.100688,41.362118,2,Ruth,Correa,,1,Low,No,Real,60,,Investigador,Municipal,2014-5-16
+4,Piso de Correa,"Correa se prepara para la cena con Ruth. Ha alquilado este piso para otro ""proyecto""",,2.160041,41.392378,1,Correa,,,3,Medium,No,Real,74,,Sospechoso,Home,2014-5-16
+4,"Restaurante Da Mario, cerca del Hospital Clínic",Ruth cena con Correa aquí. El restaurante no existe,,2.150976,41.390249,2,Ruth,Correa,,3,Medium,No,Fictional,74-75,,Investigador,Bar Restaurant,2014-5-16
+5,Oficina de una imprenta en la Via Laietana,El jefe de Ruth la descubre buscando comida en los contenedores de basura de un súper.  Ruth habla con él en la oficina sobre su situación económica,,2.178437,41.384231,1,Ruth,,,3,Medium,No,Fictional,82,,Investigador,Business,2014-6-4
+5,"Piso de Sant Antoni ""La guarida""",Correa aquí con sus hombres,,2.161292,41.380369,2,Correa,Canales,,2,High,No,Fictional,86,,Sospechoso,Home,2014-6-7
+5,Oficina de una imprenta en la Via Laietana,Ruth decide llamar a Correa porque sus compañeros de trabajo saben que no tiene dinero,,2.178437,41.384231,1,Ruth,,,2,Medium,No,Fictional,88,,Investigador,Business,2014-6-9
+5,Mercado de Sant Antoni,Correa y Ruth pasan cerca del mercado (de obras) rumbo a la guarida,,2.162043,41.379215,2,Correa,Ruth,,1,High,Yes,Real,89,,Investigador,Monument,2014-6-9
+5,"Piso de Sant Antoni ""La guarida""",La primera visita de Ruth al piso,,2.161292,41.380369,5,Ruth,Correa,Charro,2,High,No,Fictional,89-92,,Investigador,Home,2014-6-9
+5,"Cajero automático de Caixabank, barrio de Sant Martí","El grupo atraca 40.000 euros de un cajero, según un recorte del periódico (intertexto)",,2.208063,41.407238,0,,,,1,High,Yes,Real,97,,Sospechoso,Business,2014-6-10
+6,Terraza de una cafetería en Sarrià,Ruth vigila un banco que el grupo atracará,,2.122333,41.398264,1,Ruth,,,5,Low,No,Fictional,98,,Investigador,Bar Restaurant,2014-6-13
+6,"Piso de Sant Antoni ""La guarida""",Ruth pasa tiempo en la guarida,,2.161292,41.380369,2,Ruth,Canales,,2,High,No,Fictional,105,,Investigador,Home,2014-6-18
+6,Banco de Sarrià,"Correa y sus hombres atracan a otro banco. La novela solo dice que está en Sarría, cerca de la Via Augusta (ellos cogen esta calle para salir de Barcelona después)",,2.122333,41.398264,3,Correa,Canales,Bosco,5,Low,No,Fictional,114,,Sospechoso,Business,2014-6-20
+6,Nave de un polígono industrial,Nave donde David Muñoz ayuda a Correa con los vehículos y la logísitca. La aclara luego en p.221 que está cerca de Vallbona.,,2.171436,41.465595,3,Correa,Canales,Bosco,5,Low,No,Fictional,115,,Sospechoso,Business,2014-6-20
+6,Terraza de una cafetería cerca de la guarida,Ruth espera el resto del grupo después del atraco en Sarrià,,2.161292,41.380369,1,Ruth,,,3,Medium,No,Fictional,116,,Investigador,Bar Restaurant,2014-6-20
+7,Piso de Correa,Correa en su piso cerca de la calle Mallorca,,2.160041,41.392378,1,Correa,,,3,Medium,No,Real,129,,Sospechoso,Home,2014-7-10
+7,Librería con cafetería,"Ruth viene aquí para recibir su parte del botín de Canales. La novela no indica dónde está. He indicado la librería Laie, que sí tiene varias plantas y cafetería (algo no tan común en BCN)",,2.1708,41.3899,2,Ruth,Canales,,5,Low,No,Fictional,132,,Investigador,Business,2014-7-11
+7,Ciutat de la Justicia,"Salvador, el detective, sale de esta zona dirección a su comisaría",,2.132729,41.364464,1,Salvador,,,1,High,Yes,Real,137,,Investigador,Municipal,2014-7-12
+7,Restaurante cerca de Sants,"Ruth come con su madre.  La novela no indica la ubicación del restaurante, pero se puede inferir con la ruta que Ruth toma después",,2.137278,41.384932,2,Ruth,,,5,Low,No,Fictional,138,,Investigador,Bar Restaurant,2014-7-13
+7,Plaza de toros,Ruth baja desde la calle Numancia/Tarragona y pasa por este lugar rumbo a la guarida,,2.149295,41.375576,1,Ruth,,,1,High,Yes,Real,144,,Investigador,Monument,2014-7-13
+7,"Piso de Sant Antoni ""La guarida""",Ruth escucha el siguiente plan de atraco del grupo,,2.161292,41.380369,5,Ruth,Correa,Charro,2,High,No,Fictional,148,,Investigador,Home,2014-7-13
+7,Bloques Florida,Ruth vuelve a casa después de escuchar el plan,,2.109235,41.36728,1,Ruth,,,2,Medium,Yes,Real,148,,Investigador,Home,2014-7-13
+7,"Piso de Sant Antoni ""La guarida""",Correa sigue haciendo planes para el atraco,,2.161292,41.380369,2,Correa,Canales,,2,High,No,Fictional,150,,Sospechoso,Home,2014-7-16
+8,Nave industrial de la Zona Franca,Trabajo de noche de Ruth,,2.128839,41.338737,1,Ruth,,,5,Low,No,Fictional,155,,Investigador,Business,2014-7-17
+8,Bloques Florida,Ruth vuelve a discutir con su compañero de piso,,2.109235,41.36728,2,Ruth,,,2,Medium,Yes,Real,158,,Investigador,Home,2014-7-19
+8,"Piso de Sant Antoni ""La guarida""","Ruth pasa la noche aquí, no aguanta más su piso",,2.161292,41.380369,4,Ruth,Correa,Charro,2,High,No,Fictional,159,,Investigador,Home,2014-7-19
+8,Piso en el antiguo barrio Chino,El inspector interroga a una mujer que conoce a Correa,,2.168449,41.378958,2,Salvador,,,5,Low,No,Fictional,170,,Investigador,Home,2014-7-20
+8,Pensión cerca de Arc de Triomf,"Correa, con otro nombre, cambia de piso para esquivar el sicario. No hay un hostal en esta calle",,2.18136,41.388887,1,Correa,,,2,High,No,Fictional,172,,Sospechoso,Hotel,2014-7-20
+8,Un bar cerca de la boca del metro de Can Vidalet,"Correa habla con Canales aquí, ha venido caminando desde la pensión para esquivar al sicario.  Hay varios bares posibles por la zona",,2.099713,41.371555,2,Correa,Canales,,2,High,No,Real,173,,Sospechoso,Bar Restaurant,2014-7-20
+8,Oficina de una imprenta en la Via Laietana,Ruth deja su trabajo de día cuando su jefe empieza a investigar más su situación económica,,2.178437,41.384231,1,Ruth,,,3,Medium,No,Fictional,175,,Investigador,Business,2014-7-22
+8,Bloques Florida,Ruth aquí después de dejar su trabajo,,2.109235,41.36728,1,Ruth,,,2,Medium,Yes,Real,180,,Investigador,Home,2014-7-22
+9,La Ciutadella,Correa aquí se da cuenta que el sicario todavía le sigue,,2.1825,41.388423,1,Correa,,,1,High,Yes,Real,183,,Sospechoso,Exterior,2014-7-24
+9,La plaza de Marquilles,Correa intenta escaparse del sicario,,2.179724,41.388166,1,Correa,,,1,High,Yes,Real,184,,Sospechoso,Exterior,2014-7-24
+9,Pensión cerca de Arc de Triomf,Correa decide salir de la pensión para evitar al sicario,,2.18136,41.388887,1,Correa,,,2,High,No,Fictional,185,,Sospechoso,Hotel,2014-7-24
+9,"Boca del metro ""Sant Antoni""",Ruth intenta ir a la guarida sin saber que el grupo la ha abandonado,,2.163197,41.379772,1,Ruth,,,1,High,Yes,Real,187,,Investigador,Transport,2014-7-25
+9,"Piso de Sant Antoni ""La guarida""",Ruth y Charro aquí limpiando antes de abandonarla,,2.161292,41.380369,2,Ruth,Charro,,2,High,No,Fictional,189,,Investigador,Home,2014-7-25
+9,Calle Mallorca,Ruth corre hasta aquí desde la guarida cuando Charro intenta atacarla.  Sube la calle Urgell,,2.152829,41.386494,1,Ruth,,,1,High,Yes,Real,193,,Investigador,Exterior,2014-7-25
+9,Calle Rosa Sensat,Arteaga vigila al sicario fingiendo ser mendigo,,2.197359,41.3903,2,Arteaga,Correa,,3,Medium,No,Fictional,194,,Sospechoso,Exterior,2014-7-25
+9,Piso de Correa,Recorte del periódico que habla de un incendio en el piso abandonado,,2.160041,41.392378,0,,,,3,Medium,No,Real,199,,Sospechoso,Home,2014-7-26
+10,Una terraza cerca de la guarida,Salvador vigila la entrada de la guarida sin saber que ha sido desalojada,,2.160593,41.380616,1,Salvador,,,3,Medium,No,Fictional,200,,Investigador,Exterior,2014-7-26
+10,Estación de tren de Sant Pol del Mar,"Correa está aquí, vestido como mendigo, para escaparse de la ciudad y del sicario",,2.624658,41.601833,1,Correa,,,1,High,Yes,Real,202,,Sospechoso,Transport,2014-7-26
+10,Estación de tren de Mataró,Correa decide coger el tren hacia una ciudad más grande,,2.445393,41.533454,1,Correa,,,1,High,Yes,Real,202,,Sospechoso,Transport,2014-7-26
+10,Cáritas Mataró,Correa come en un comedor social,,2.445216,41.544489,1,Correa,,,1,High,Yes,Real,202,,Sospechoso,Municipal,2014-7-26
+10,Mercado de Sant Antoni,Ruth está en el puesto 33 del mercado para hablar con Correa.  Están en la estructura temporal que se usaba durante la remodelación del mercado,,2.163158,41.379215,2,Ruth,Correa,,1,High,Yes,Real,205,,Investigador,Municipal,2014-7-27
+10,Passeig de la Bonanova con Carrer de Calatrava,"Ruth y Correa bajan del taxi aquí, luego van andando hacia una moto aparcada",,2.12689,41.402952,2,Ruth,Correa,,1,High,Yes,Real,208,,Investigador,Exterior,2014-7-27
+10,A unas manzanas del Hospital Clínic,"Ruth y Correa aparcan la moto aquí, rumbo al nuevo piso de Ruth",,2.152816,41.391602,2,Ruth,Correa,,3,Medium,Yes,Real,209,,Investigador,Exterior,2014-7-27
+10,Piso de Ruth en la calle Paris,"Correa le enseña a Ruth un ático que ella puede alquilar de una mujer.  Ubicación no específica, en esta calle",,2.149991,41.391173,2,Ruth,Correa,,3,Medium,No,Fictional,210,,Investigador,Home,2014-7-27
+10,Piso de Ruth en la calle Paris,Ruth en su piso,,2.149991,41.391173,1,Ruth,,,3,Medium,No,Fictional,214,,Investigador,Home,2014-8-1
+10,Nave de un polígono industrial,Unas páginas sobre el papel de David Muñoz en el golpe,,2.171436,41.465595,1,David Muñoz,,,5,Low,No,Fictional,221,,Sospechoso,Business,2014-8-1
+11,"Boca del metro ""Marina""",Ruth coge el metro para volver a casa después de cubrir una baja en la oficina de Poble Nou de su trabajo de noche. Ve a un mendigo dormido en la estación que se parece a Correa,,2.186838,41.395467,1,Ruth,,,1,High,Yes,Real,224,,Investigador,Transport,2014-8-3
+11,Hotel frente al tanatorio de Sancho de Ávila,"El sicario se aloja aquí, Correa le vigila por esta zona.  No hay hotel aquí",,2.188694,41.396157,1,Correa,,,3,Medium,No,Fictional,224,,Sospechoso,Hotel,2014-8-3
+11,Nave de un polígono industrial,David Muñoz escucha las llamadas telefónicas del chalé de los mafiosos desde su nave,,2.171436,41.465595,1,David Muñoz,,,5,Low,No,Fictional,227,,Sospechoso,Business,2014-8-3
+11,Piso de Ruth en la calle Paris,Ruth en su piso,,2.149991,41.391173,1,Ruth,,,3,Medium,No,Fictional,229,,Investigador,Home,2014-8-3
+11,"Boca del metro ""Marina""","Ruth va a su trabajo de noche por última vez, busca a Correa en el metro (como indigente). Es el último día que sustituye a alguien en la oficina de Poble Nou",,2.186838,41.395467,1,Ruth,,,1,High,Yes,Real,229,,Investigador,Transport,2014-8-3
+11,Calle Marina,"Ruth ve a Correa, mientras él vigila al sicario, cerca de la boca del metro. No hay un descampado por esta zona como describe la novela",,2.189994,41.392552,2,Ruth,Correa,,5,Low,No,Fictional,229,,Investigador,Exterior,2014-8-3
+11,Piso de Ruth en la calle Paris,"Ruth vuelve a su piso en taxi porque mientras vigilaba a Correa, alguien le perseguía a ella",,2.149991,41.391173,1,Ruth,,,3,Medium,No,Fictional,230,,Investigador,Home,2014-8-3
+11,Un descampado cerca del tanatorio Sancho de Ávila,"Lugar donde Correa mata al sicario.  No queda claro dónde está exactamente, he escogido un descampado posible en Poble Nou",,2.195531,41.396855,1,Correa,,,5,Low,No,Fictional,232,,Dead Body,Exterior,2014-8-3
+11,Port Olímpic,"Correa baja hasta aquí empujando un carrito con el cuerpo del sicario.  Por aquí hay un lugar preparado para esconder el cuerpo, pero no se revela dónde",,2.199196,41.387614,1,Correa,,,3,Medium,No,Fictional,233,,Sospechoso,Exterior,2014-8-3
+11,Hospital Clínic,"Correa va andando desde Port Olímpic porque el sicario ha logrado apuñalarle.  Después se escapa del hospital, los doctores piensan que es un indigente",,2.152416,41.389581,1,Correa,,,1,High,Yes,Real,234,,Sospechoso,Municipal,2014-8-3
+12,Piso de Ruth en la calle Paris,"Correa llega al piso de Ruth, herido",,2.149991,41.391173,2,Ruth,Correa,,3,Medium,No,Fictional,236,,Investigador,Home,2014-8-4
+13,Chalet de Veiga,"Correa y sus hombres roban el chalet del mafioso.  Está en L'Escala, pero no tenemos ubicación exacta.  Luego vuelven a la ciudad en tres furgonetas",,3.152843,42.107281,7,Correa,Arteaga,Bosco,5,Low,No,Fictional,259,,Sospechoso,Home,2014-8-11
+13,Hospital Clínic,Salvador aquí para hablar con los médicos que trataron a Correa,,2.152416,41.389581,1,Salvador,,,1,High,Yes,Real,261,,Investigador,Municipal,2014-8-11
+13,Un bar en la calle Escudellers,Salvador entrevista a un informante sobre Correa,,2.17581,41.379021,1,Salvador,,,5,Low,No,Fictional,264,,Investigador,Bar Restaurant,2014-8-11
+13,Parque de bomberos del Eixample,Salvador aquí para hablar con los bomberos que acudieron al incendio del piso de Correa,,2.146771,41.37941,1,Salvador,,,1,High,Yes,Real,267,,Investigador,Municipal,2014-8-11
+14,Nave en la Zona Franca. Trabajo de noche de Ruth,Ruth espera a los hombres de Correa mientras trabaja,,2.128839,41.338737,1,Ruth,,,5,Low,No,Fictional,274,,Investigador,Business,2014-8-12
+14,Nave de un polígono industrial,"Los hombres esperan con las furgonetas aquí, luego irán al trabajo de Ruth para mandar los paquetes de dinero",,2.171436,41.465595,7,Correa,Arteaga,Bosco,5,Low,No,Fictional,275,,Sospechoso,Business,2014-8-12
+14,Nave en la Zona Franca. Trabajo de noche de Ruth,Ruth y el grupo intercambian el dinero,,2.128839,41.338737,8,Ruth,Correa,Canales,5,Low,No,Fictional,280,,Investigador,Business,2014-8-12
+14,Ciutat de la Justicia,"Salvador en su oficina, estudiando el caso",,2.132729,41.364464,1,Salvador,,,1,High,Yes,Real,285,,Investigador,Municipal,2014-8-19
